@@ -6,7 +6,7 @@ using namespace std;    // Use the standard namespace
 // Class definition for LoginSystem
 class LoginSystem {
 private:
-    const string filename = "records.txt";  // File where user records (username and password) will be stored
+    const string filename = "record.txt";  // File where user records (username and password) will be stored
 
 public:
     // Main menu function to display options repeatedly
